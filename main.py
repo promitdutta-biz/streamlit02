@@ -49,7 +49,7 @@ def main():
     
     html_temp = """ 
 	<div style ="background-color:yellow;padding:13px"> 
-	<h1 style ="color:black;text-align:center;">Bengaluru Flat Price Prediction App</h1> 
+	<h1 style ="color:black;text-align:center;">Bengaluru Flat Price Prediction</h1> 
 	</div> 
 	"""
 	# this line allows us to display the front end aspects we have 
